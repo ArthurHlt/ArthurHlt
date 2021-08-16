@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHlt&layout=compact&theme=dracula&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-
+Make stats using https://github.com/anuraghazra/github-readme-stats thanks to him
 
 <!--
 - 👯 I’m looking to collaborate on ...
